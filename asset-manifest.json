@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ticketLandindPage/static/css/main.d135e6cf.css",
+    "main.js": "/ticketLandindPage/static/js/main.cc7302db.js",
+    "static/js/787.c8ac7851.chunk.js": "/ticketLandindPage/static/js/787.c8ac7851.chunk.js",
+    "static/media/mountains.jpg": "/ticketLandindPage/static/media/mountains.c7317ce465b4451e9eb1.jpg",
+    "static/media/airbnb-brands.svg": "/ticketLandindPage/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "index.html": "/ticketLandindPage/index.html",
+    "main.d135e6cf.css.map": "/ticketLandindPage/static/css/main.d135e6cf.css.map",
+    "main.cc7302db.js.map": "/ticketLandindPage/static/js/main.cc7302db.js.map",
+    "787.c8ac7851.chunk.js.map": "/ticketLandindPage/static/js/787.c8ac7851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d135e6cf.css",
+    "static/js/main.cc7302db.js"
+  ]
+}
